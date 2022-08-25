@@ -1,6 +1,6 @@
 # Summer 2023 Quant Internships
 
-Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
+Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏
 (Format and idea inspired by QuantStart. Updated and Maintained by the Northwestern Fintech Club.)
 
 ---
