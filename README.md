@@ -17,18 +17,6 @@ QT = Quantitative Trading
 
 ------
 
-Top internship companies (subjectively ranked based on perception, culture, program, prestige and pay): 
-
-1️⃣ HRT - Jane Street - Radix. 
-
-2️⃣ Citadel (Securities). 
-
-3️⃣ Five Rings - DE Shaw - Jump. 
-
-4️⃣ Two Sigma - IMC - Optiver. 
-
-5️⃣ Akuna - DRW - SIG - Virtu.
-
 
 
 ------
