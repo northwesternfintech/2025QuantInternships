@@ -1,6 +1,6 @@
-# Summer 2023 Quant Internships 💹 🐱‍💻
+# Summer 2023 Quant Internships
 
-🙏 Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
+Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
 
 ------
 
@@ -36,7 +36,7 @@ Top internship companies (subjectively ranked based on perception, culture, prog
 
 | Company             | Location                |                             SWE                              |                              QR                              |                              QT                              | Status                                                       | Notes                                                        |
 | ------------------- | ----------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Akuna               | Boston, Chicago         |                              ✔️                               |                              ✔️                               |                              ✔️                               |                                                              | Founded by ex-optiver traders. Meritocratic culture where people are promoted quickly. On the flip-side, stress levels and pressure tend to be on the higher side. |
+| Akuna               | Boston, Chicago         |                              [✅](https://akunacapital.com/job-details?gh_jid=4269930)                               |                              ✔️                               |                              ✔️                               |                                                              | Founded by ex-optiver traders. Meritocratic culture where people are promoted quickly. On the flip-side, stress levels and pressure tend to be on the higher side. |
 | Allston Trading     | Chicago                 |                                                              |                                                              |                                                              |                                                              |                                                              |
 | Ansatz Capital      | NYC                     |                                                              |                                                              |                                                              |                                                              | Similarly to Aquatic, Headlands and Radix, a small but prestigious firm that is willing to pay more than most competitors. Fairly young firm. Uses Python and C++ for QR. |
 | Aquatic             | Chicago                 |  |                                                              |  |  |  |
