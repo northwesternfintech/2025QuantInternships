@@ -1,7 +1,7 @@
 # Summer 2023 Quant Internships
 
-Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏
-(Format and idea inspired by QuantStart. Updated and Maintained by the Northwestern Fintech Club.)
+Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
+(Idea stolen from QuantStart, but Updated and Maintained by the Northwestern Fintech Club.
 
 ---
 
@@ -31,35 +31,6 @@ Top internship companies (subjectively ranked based on perception, culture, prog
 
 ---
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong>Company</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>Location</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>SWE</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>QR</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>QT</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>Status</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <strong>Notes</strong>
-    </td>
-  </tr>
-
-  <tr>
-
-  </tr>
-</table>
 | Company                                                                              | Location                |                                                                       SWE                                                                       |                                                                          QR                                                                          |                                                                                                                                  QT                                                                                                                                   | Status                                | Notes                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------ | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | --- | --- | --- |
 | Akuna                                                                                | Boston, Chicago         |                                            [✅](https://akunacapital.com/job-details?gh_jid=4269930)                                            |                                              [✅](https://akunacapital.com/job-details?gh_jid=4217954)                                               |                                                                                                       [✅](https://akunacapital.com/job-details?gh_jid=4218021)                                                                                                       |                                       |                                                                                                                                                                                                                                                                                                  |                            |     |     |     |
