@@ -1,7 +1,8 @@
 # Summer 2023 Quant Internships
 
 Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏 
-(Idea and format inspired by QuantStart. Updated and Maintained by the Northwestern Fintech Club.)
+(Idea and format inspired by QuantStart. Updated and Maintained by the Northwestern Fintech Club.)  
+Are you a firm looking to reach quant interns? Let us know at nuft@u.northwestern.edu and we will take care of adding your positions. 
 
 ------
 
