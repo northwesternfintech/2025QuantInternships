@@ -20,7 +20,9 @@ QT = Quantitative Trading
 
 ------
 
-
+Future Companies:
+BlackEdge
+StoneX
 
 ------
 
