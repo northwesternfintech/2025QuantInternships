@@ -41,6 +41,7 @@ QT = Quantitative Trading
 | Five Rings| NYC|||||Very school-selective.|
 | Flow Traders|NYC||||| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver but the office is NYC instead of Chicago.|
 | G-Research| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
+| Geneva Trading| Chicago||||||
 | GSA Capital| NYC||||||
 | Headlands Tech| Chicago||||| Founded by ex-Citadel people. Max Dama works here. Similarly to Ansatz, Aquatic, Headlands and Radix, a small firm that is willing to pay more than most competitors. Known to have a large focus on C++, both among QRs and SWEs.|
 | HRT| Chicago, NYC||||| The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. HRT, JS and Two Sigma are also known to recruit QRs out of undergrad.|
