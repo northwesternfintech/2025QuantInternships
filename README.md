@@ -52,7 +52,7 @@ QT = Quantitative Trading
 | Marshall Wace|NYC||||||
 | Maven Securities | London|||||Founded by ex-optiver traders.|
 | Millenium| NYC||||||
-| Old Mission Capital     | Chicago, NYC            ||||| Spoke with management. No longer taking interns, not intending to do so again in the foreseeable future.|
+| Old Mission Capital     | Chicago, NYC            ||||| Takes 4 total for a winter internship.|
 | Optiver| Chicago||||Only takes '24 grad dates, despite what the application says.| Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due their marble bonus system. Larger focus on traders. Traders generally tend to earn considerably more than SWEs at the Dutch firms, especially over time. QR roles are open for graduate students |
 | PDT Partners| NYC||||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
 | Peak6| Chicago||||| The internships are geared towards women. The new grad roles are open to everyone.|
