@@ -29,6 +29,7 @@ QT = Quantitative Trading
 | [Ansatz Capital](https://jobs.lever.co/ansatzcapital)|NYC|||||Very Small|
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago||||||
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
+|[BAM](https://bamfunds.force.com/s/)|||||||
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago||||||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
@@ -46,30 +47,31 @@ QT = Quantitative Trading
 | [Headlands Tech](https://www.headlandstech.com/careers/)| Chicago||||| Founded by ex-Citadel people. Max Dama works here. Similarly to Ansatz, Aquatic, and Radix, a small firm that is willing to pay more than most competitors. Known to have a large focus on C++, both among QRs and SWEs.|
 | [HRT](https://www.hudsonrivertrading.com/campus-recruiting/)| Chicago, NYC||||| The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. HRT, JS and Two Sigma are also known to recruit QRs out of undergrad.|
 | [IMC Trading](https://careers.imc.com/us/en/student-opportunities)|Chicago||||| Word is that IMC has the chillest culture out of the three big dutch firms (IMC, Optiver, Flow Traders). Pay tends to be in between Flow Traders and Optiver. Tends to be more focused on the quantitative side than Optiver and Flow. Has one of the highest intern salaries. |
-| Jane Street| NYC||||| Founded by ex-SIG people. Tends to be more school-agnostic than other firms. Also offers a lot of first-round interviews. General perception of JS is that it has a very comfortable and quirky culture. Specializes in market making.|
-| Jump Trading| Chicago||||| Fairly school-selective recruiting. Very engineering-focused with siloed teams.|
-| Mako Trading| London||||||
-| Marshall Wace|NYC||||||
-| Maven Securities | London|||||Founded by ex-optiver traders.|
-| Millenium| NYC||||||
-| Old Mission Capital     | Chicago, NYC            ||||| Takes 4 total for a winter internship.|
-| Optiver| Chicago||||Only takes '24 grad dates, despite what the application says.| Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due their marble bonus system. Larger focus on traders. Traders generally tend to earn considerably more than SWEs at the Dutch firms, especially over time. QR roles are open for graduate students |
-| PDT Partners| NYC||||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
-| Peak6| Chicago||||| The internships are geared towards women. The new grad roles are open to everyone.|
-| QuantLab| Houston||||||
+| [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york)| NYC||||| Founded by ex-SIG people. Tends to be more school-agnostic than other firms. Also offers a lot of first-round interviews. General perception of JS is that it has a very comfortable and quirky culture. Specializes in market making.|
+| [Jump Trading]|(https://www.jumptrading.com/careers/?titleSearch=campus+intern) Chicago||||| Fairly school-selective recruiting. Very engineering-focused with siloed teams.|
+| [Mako Trading](https://www.mako.com/opportunities)| London||||||
+| [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC||||||
+| [Maven Securities](https://www.mavensecurities.com/jobs/) | London|||||Founded by ex-optiver traders.|
+| [Millenium](https://www.mlp.com/job-listings/)| NYC||||||
+| [Old Mission](https://www.oldmissioncapital.com/careers/https://www.oldmissioncapital.com/careers/)     | Chicago, NYC            ||||| Takes 4 total for a winter internship.|
+| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10)| Chicago||||Only takes '24 grad dates, despite what the application says.| Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due their marble bonus system. Larger focus on traders. Traders generally tend to earn considerably more than SWEs at the Dutch firms, especially over time. QR roles are open for graduate students |
+| [PDT Partners](https://pdtpartners.com/careers)| NYC||||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
+| [Peak6](https://peak6.com/careers/?l=&q=intern#jointheparty)| Chicago||||| The internships are geared towards women. The new grad roles are open to everyone.|
+| [QuantLab](https://www.quantlab.com/careers)| Houston||||||
 | Radix Labs| Chicago|[✅](mailto:recruiting@radix-trading.com)||[✅](mailto:recruiting@radix-trading.com)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
-| Seven Eight| NYC||||||
-| SIG| Bala Cynwyd||||| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
-| Squarepoint| NYC||||||
-| TGS| Irvine||||| Used to only recruit grad students but recently started recruiting undergrads as well.|
-| Tower Research| NYC||||| Pretty traditional portfolio manager culture.|
-| TransMarketGroup| Chicago||||||
-| Two Sigma| NYC||||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
-| Valkyrie Trading| Chicago||||||
-| Vatic Labs| NYC||||| Founded by ex-Jump people.|
-| Virtu Financial| NYC, Austin||||||
-| Voleon| Berkeley||||| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
-| Wolverine| Chicago||||||
-| WorldQuant| NYC||||||
-| XTX Markets| London||||| Branched out of GSA capital.|
+| Schonfeld |||||||
+| [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
+| [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd||||| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
+| [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
+| [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
+| [Tower Research](https://www.tower-research.com/open-positions)| NYC||||| Pretty traditional portfolio manager culture.|
+| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago||||||
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
+| [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||||||
+| [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||||| Founded by ex-Jump people.|
+| [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin||||||
+| [Voleon](https://voleon.com/index.html%3Fp=124.html)| Berkeley||||| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
+| [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)| Chicago||||||
+| [WorldQuant](https://www.worldquant.com/career-listing/)| NYC||||||
+| XTX Markets(https://www.xtxmarkets.com/#careers)| London||||| Branched out of GSA capital.|
