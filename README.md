@@ -48,7 +48,7 @@ QT = Quantitative Trading
 | [HRT](https://www.hudsonrivertrading.com/campus-recruiting/)| Chicago, NYC||||| The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. HRT, JS and Two Sigma are also known to recruit QRs out of undergrad.|
 | [IMC Trading](https://careers.imc.com/us/en/student-opportunities)|Chicago||||| Word is that IMC has the chillest culture out of the three big dutch firms (IMC, Optiver, Flow Traders). Pay tends to be in between Flow Traders and Optiver. Tends to be more focused on the quantitative side than Optiver and Flow. Has one of the highest intern salaries. |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york)| NYC||||| Founded by ex-SIG people. Tends to be more school-agnostic than other firms. Also offers a lot of first-round interviews. General perception of JS is that it has a very comfortable and quirky culture. Specializes in market making.|
-| [Jump Trading]|(https://www.jumptrading.com/careers/?titleSearch=campus+intern) Chicago||||| Fairly school-selective recruiting. Very engineering-focused with siloed teams.|
+| [Jump Trading](https://www.jumptrading.com/careers/?titleSearch=campus+intern)| Chicago||||| Fairly school-selective recruiting. Very engineering-focused with siloed teams.|
 | [Mako Trading](https://www.mako.com/opportunities)| London||||||
 | [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC||||||
 | [Maven Securities](https://www.mavensecurities.com/jobs/) | London|||||Founded by ex-optiver traders.|
