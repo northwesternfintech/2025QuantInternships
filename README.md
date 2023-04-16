@@ -25,18 +25,18 @@ QT = Quantitative Trading
 
 | Company| Location|SWE|QR|QT|Status| Notes|
 |-------------------------|-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Akuna Capital|Chicago|||||Apply early!|
-| Ansatz Capital|NYC|||||Very Small|
-| Aquatic|Chicago||||||
-| AQR|Greenwich||||||
-| Arrowstreet Capital|Boston|||||Highest Interview Difficulty|
-| Belvedere Trading| Chicago||||||
-| Bridgewater| Westport||||| Day Ralio's firm. Very unique culture.|
-| Citadel| Chicago, NYC||||| The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective.|
+| [Akuna Capital](https://akunacapital.com/careers#careers)|Chicago|||||Apply early!|
+| [Ansatz Capital](https://jobs.lever.co/ansatzcapital)|NYC|||||Very Small|
+| [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago||||||
+| [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
+| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago||||||
+| [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
+| [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, NYC||||| The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective.|
 | Citadel Securities| Chicago, NYC||||| The market making arm of Citadel. The general perception is that the culture tends to be better at Citadel Securities vs Citadel LLC. A good way to get into the interview pipeline is through Citadel's Data Open competition.|
-| Chicago Trading Company | Chicago||||||
-| Cubist                  | New York City||||| The quant arm of Steve Cohen's Point72 hedge fund.|
-| DE Shaw|||||| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
+| [Chicago Trading Company](https://www.chicagotrading.com/search#search-results) | Chicago||||||
+| [Cubist](https://careers.point72.com/?experience=internships)                  | New York City||||| The quant arm of Steve Cohen's Point72 hedge fund.|
+| [DE Shaw](https://www.deshaw.com/careers/internships)||||[✅](https://www.deshaw.com/careers/proprietary-trading-intern-summer-2024-4707)|| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
 | DRW Trading|Chicago||||| Perception is that DRWers tend to have a good WLB but teams are usually siloed. One of the first traditional firms that started going into crypto.|
 | Five Rings| NYC|||||Very school-selective.|
 | Flow Traders|NYC||||| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver but the office is NYC instead of Chicago.|
