@@ -75,4 +75,4 @@ QT = Quantitative Trading
 | [Voleon](https://voleon.com/index.html%3Fp=124.html)| Berkeley||||| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)| Chicago||||||
 | [WorldQuant](https://www.worldquant.com/career-listing/)| NYC||||||
-| XTX Markets(https://www.xtxmarkets.com/#careers)| London||||| Branched out of GSA capital.|
+| [XTX Markets](https://www.xtxmarkets.com/#careers)| London||||| Branched out of GSA capital.|
