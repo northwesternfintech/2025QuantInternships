@@ -32,7 +32,7 @@ QT = Quantitative Trading
 |[BAM](https://bamfunds.force.com/s/)|||||||
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago||||||
-| [Blackstone Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
+| [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport|[✅](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|||| Day Ralio's firm. Very unique culture.|
 | [Campbell and Company](https://www.campbell.com/)| Baltimore, MD||||| One of the oldest CTAs in the country, this small 60 employee quant firm has an extremely collaborative culture.|
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, NYC||||| The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective.|
