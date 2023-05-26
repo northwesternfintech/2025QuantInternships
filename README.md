@@ -46,6 +46,7 @@ QT = Quantitative Trading
 | [G-Research](https://www.gresearch.co.uk/join-us/graduates/)| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
 | [Geneva Trading](https://jobs.jobvite.com/genevatrading/)| Chicago||||||
 | [GSA Capital](https://www.gsacapital.com/?section=careers&gh_src=)| NYC||||||
+| [HAP Capital](https://jobs.lever.co/hap-capital)| NYC||||||
 | [Headlands Tech](https://www.headlandstech.com/careers/)| Chicago||||| Founded by ex-Citadel people. Max Dama works here. Similarly to Ansatz, Aquatic, and Radix, a small firm that is willing to pay more than most competitors. Known to have a large focus on C++, both among QRs and SWEs.|
 | [HRT](https://www.hudsonrivertrading.com/campus-recruiting/)| Chicago, NYC||||| The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. HRT, JS and Two Sigma are also known to recruit QRs out of undergrad.|
 | [IMC Trading](https://careers.imc.com/us/en/student-opportunities)|Chicago||||| Word is that IMC has the chillest culture out of the three big dutch firms (IMC, Optiver, Flow Traders). Pay tends to be in between Flow Traders and Optiver. Tends to be more focused on the quantitative side than Optiver and Flow. Has one of the highest intern salaries. |
@@ -72,7 +73,7 @@ QT = Quantitative Trading
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||||| Founded by ex-Jump people.|
-| [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin||||||
+| [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin|||||HFT Specialists|
 | [Voleon](https://voleon.com/index.html%3Fp=124.html)| Berkeley||||| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)| Chicago||||||
 | [WorldQuant](https://www.worldquant.com/career-listing/)| NYC||||||
