@@ -39,7 +39,7 @@ QT = Quantitative Trading
 | Citadel Securities| Chicago, NYC||||| The market making arm of Citadel. The general perception is that the culture tends to be better at Citadel Securities vs Citadel LLC. A good way to get into the interview pipeline is through Citadel's Data Open competition.|
 | [Chicago Trading Company](https://www.chicagotrading.com/search#search-results) | Chicago||||||
 | [Cubist](https://careers.point72.com/?experience=internships)                  | New York City||||| The quant arm of Steve Cohen's Point72 hedge fund.|
-| [DE Shaw](https://www.deshaw.com/careers/internships)||||[✅](https://www.deshaw.com/careers/proprietary-trading-intern-summer-2024-4707)|| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
+| [DE Shaw](https://www.deshaw.com/careers/internships)|NYC|[✅](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803)||[✅](https://www.deshaw.com/careers/proprietary-trading-intern-summer-2024-4707)|| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
 | [DRW](https://drw.com/work-at-drw/category/campus/)|Chicago||||| Perception is that DRWers tend to have a good WLB but teams are usually siloed. One of the first traditional firms that started going into crypto.|
 | [Five Rings](https://fiverings.avature.net/careers)| NYC|||||Very school-selective.|
 | [Flow Traders](https://www.flowtraders.com/careers)|NYC||||| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver but the office is NYC instead of Chicago.|
