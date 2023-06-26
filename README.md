@@ -33,7 +33,7 @@ QT = Quantitative Trading
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago||||||
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
-| [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport|[✅](https://boards.greenhouse.io/bridgewater89/jobs/6570837002)|||| Day Ralio's firm. Very unique culture.|
+| [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
 | [Campbell and Company](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US)| Baltimore, MD||||| This small 60 employee multi-strat quant firm has an extremely collaborative culture.|
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, NYC||||| The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective.|
 | Citadel Securities| Chicago, NYC||||| The market making arm of Citadel. The general perception is that the culture tends to be better at Citadel Securities vs Citadel LLC. A good way to get into the interview pipeline is through Citadel's Data Open competition.|
