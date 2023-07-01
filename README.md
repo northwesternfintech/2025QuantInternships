@@ -63,7 +63,7 @@ QT = Quantitative Trading
 | [QuantLab](https://www.quantlab.com/careers)| Houston||||||
 | Radix Labs| Chicago|[✔️](mailto:recruiting@radix-trading.com)||[✔️](mailto:recruiting@radix-trading.com)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
-| Schonfeld |||||||
+| [Schonfeld](https://www.schonfeld.com/careers/open-positions?page=1&department=Early%20Engagement) |||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
 | [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd||||| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
