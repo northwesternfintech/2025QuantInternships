@@ -10,7 +10,7 @@ Are you a firm looking to reach quant interns? Let us know at nuft@u.northwester
 
 ✅  = Company offers role and applications are open → click on the checkmark for a link to the job posting
 
-✔️ =  Company offers role but applications are not open yet
+✔️
 
 SWE = Software Engineering or Quantitative Development
 
@@ -61,7 +61,7 @@ QT = Quantitative Trading
 | [PDT Partners](https://pdtpartners.com/careers)| NYC||||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
 | [Peak6](https://peak6.com/careers/?l=&q=intern#jointheparty)| Chicago||||| The internships are geared towards women. The new grad roles are open to everyone.|
 | [QuantLab](https://www.quantlab.com/careers)| Houston||||||
-| Radix Labs| Chicago|[✅](mailto:recruiting@radix-trading.com)||[✅](mailto:recruiting@radix-trading.com)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
+| Radix Labs| Chicago|[✔️](mailto:recruiting@radix-trading.com)||[✔️](mailto:recruiting@radix-trading.com)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
 | Schonfeld |||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
