@@ -31,7 +31,7 @@ QT = Quantitative Trading
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
 |[BAM](https://bamfunds.force.com/s/)|||||||
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
-| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago||||||
+| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|||||Allegedly opening in August.|
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
 | [Campbell and Company](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US)| Baltimore, MD||||| This small 60 employee multi-strat quant firm has an extremely collaborative culture.|
