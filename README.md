@@ -67,8 +67,8 @@ QT = Quantitative Trading
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
 | [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd||||| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
-| [TGS](https://www.tgsmc.com/careers/)| Irvine|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| TOP TOP TOP Tier.|
-| [Tower Research](https://www.tower-research.com/open-positions)| NYC||||| Pretty traditional portfolio manager culture.|
+| [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
+| [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| Pretty traditional portfolio manager culture.|
 | [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago|||[✅](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?gh_src=b1695fd27us)|||
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||[✅](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004)||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||||||
