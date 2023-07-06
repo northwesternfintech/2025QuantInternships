@@ -70,7 +70,7 @@ QT = Quantitative Trading
 | [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC||||| Pretty traditional portfolio manager culture.|
 | [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago|||[✅](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?gh_src=b1695fd27us)|||
-| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||[✅](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004)||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||[✅](http://www.vaticinvestments.com/careers/?gh_jid=1751323)||| Founded by ex-Jump people.|
 | [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin|||||HFT Specialists|
