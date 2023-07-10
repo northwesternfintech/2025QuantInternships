@@ -40,7 +40,7 @@ QT = Quantitative Trading
 | [Chicago Trading Company](https://www.chicagotrading.com/search#search-results) | Chicago||||||
 | [Cubist](https://careers.point72.com/?experience=internships)                  | New York City||||| The quant arm of Steve Cohen's Point72 hedge fund.|
 | [DE Shaw](https://www.deshaw.com/careers/internships)|NYC|[✅](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803)||[✅](https://www.deshaw.com/careers/proprietary-trading-intern-summer-2024-4707)|| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
-| [DRW](https://drw.com/work-at-drw/category/campus/)|Chicago||||| Perception is that DRWers tend to have a good WLB but teams are usually siloed. One of the first traditional firms that started going into crypto.|
+| [DRW](https://drw.com/work-at-drw/category/campus/)|Chicago|[✅](https://drw.com/work-at-drw/listings/software-developer-intern-2567189)|[✅](https://drw.com/work-at-drw/listings/quantitative-research-intern-2566198)|[✅](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092)|| Perception is that DRWers tend to have a good WLB but teams are usually siloed. One of the first traditional firms that started going into crypto.|
 | [Five Rings](https://fiverings.avature.net/careers)| NYC|||||Very school-selective.|
 | [Flow Traders](https://www.flowtraders.com/careers)|NYC||||| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver but the office is NYC instead of Chicago.|
 | [G-Research](https://www.gresearch.co.uk/join-us/graduates/)| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
