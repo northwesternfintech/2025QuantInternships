@@ -41,7 +41,7 @@ QT = Quantitative Trading
 | [Cubist](https://careers.point72.com/?experience=internships)| New York City|[✅](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&retURL=/CSCareerSearch)|[✅](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-research-internship&jobCode=CSS-0010068&retURL=/CSCareerSearch)||| The quant arm of Steve Cohen's Point72 hedge fund.|
 | [DE Shaw](https://www.deshaw.com/careers/internships)|NYC|[✅](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803)||[✅](https://www.deshaw.com/careers/proprietary-trading-intern-summer-2024-4707)|| Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar.|
 | [DRW](https://drw.com/work-at-drw/category/campus/)|Chicago|[✅](https://drw.com/work-at-drw/listings/software-developer-intern-2567189)|[✅](https://drw.com/work-at-drw/listings/quantitative-research-intern-2566198)|[✅](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092)|| Perception is that DRWers tend to have a good WLB but teams are usually siloed. One of the first traditional firms that started going into crypto.|
-| [Five Rings](https://fiverings.avature.net/careers)| NYC||||careers site down. seem to be adding positions.|Very school-selective.|
+| [Five Rings](https://fiverings.avature.net/careers)| NYC|||||Very school-selective.|
 | [Flow Traders](https://www.flowtraders.com/careers)|NYC||||| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver but the office is NYC instead of Chicago.|
 | [G-Research](https://www.gresearch.co.uk/join-us/graduates/)| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
 | [Geneva Trading](https://jobs.jobvite.com/genevatrading/)| Chicago||||||
@@ -55,7 +55,7 @@ QT = Quantitative Trading
 | [Mako Trading](https://www.mako.com/opportunities)| London||||||
 | [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC||||||
 | [Maven Securities](https://www.mavensecurities.com/jobs/) | London|||||Founded by ex-optiver traders.|
-| [Millenium](https://www.mlp.com/job-listings/)| NYC||||||
+| [Millenium](https://www.mlp.com/job-listings/)| NYC||||Check Handshake.||
 | [Old Mission](https://www.oldmissioncapital.com/careers/https://www.oldmissioncapital.com/careers/)     | Chicago, NYC            ||||| Takes 4 total for a winter internship.|
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10)| Chicago|[✅](https://optiver.com/working-at-optiver/career-opportunities/6837118002/)|[✅](https://optiver.com/working-at-optiver/career-opportunities/6796767002/)|[✅](https://optiver.com/working-at-optiver/career-opportunities/6793142002/)|Only takes '24 grad dates, despite what the application says.| Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due their marble bonus system. Larger focus on traders. Traders generally tend to earn considerably more than SWEs at the Dutch firms, especially over time. QR roles are open for graduate students |
 | [PDT Partners](https://pdtpartners.com/careers)| NYC||||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
