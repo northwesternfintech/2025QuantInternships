@@ -65,7 +65,7 @@ QT = Quantitative Trading
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
 | [Schonfeld](https://www.schonfeld.com/careers/open-positions?page=1&department=Early%20Engagement) |||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
-| [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd|[✅](https://careers.sig.com/job/7415/Software-Developer-C)|[✅](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)|[✅](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)| QR and QT roles now open!| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
+| [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd|[✅]([https://careers.sig.com/job/7415/Software-Developer-C](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest))|[✅](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)|[✅](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)| QR and QT roles now open!| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
 | [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| Pretty traditional portfolio manager culture.|
