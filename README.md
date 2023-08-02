@@ -30,7 +30,7 @@ QT = Quantitative Trading
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago||||||
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
 |[BAM](https://bamfunds.force.com/s/)|||||||
-| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|||||Highest Interview Difficulty|
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/Quantitative-Developer-Intern--Summer-2024_R884)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/Quantitative-Researcher-Intern--Summer-2024_R882)|||Highest Interview Difficulty|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|||||Allegedly opening in August.|
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
