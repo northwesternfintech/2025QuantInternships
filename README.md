@@ -22,7 +22,6 @@ QT = Quantitative Trading
 ------
 
 
-
 | Company| Location|SWE|QR|QT|Status| Notes|
 |-------------------------|-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Akuna Capital](https://akunacapital.com/careers#careers)|Chicago|[✅](https://akunacapital.com/job-details?gh_jid=5138367)|[✅](https://akunacapital.com/job-details?gh_jid=5147854)|[✅](https://akunacapital.com/job-details?gh_jid=5132302)||Apply early!|
@@ -61,7 +60,7 @@ QT = Quantitative Trading
 | [PDT Partners](https://pdtpartners.com/careers)| NYC|[✅](https://boards.greenhouse.io/pdtpartners/jobs/4423823)|||| Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
 | [Peak6](https://peak6.com/careers/?l=&q=intern#jointheparty)| Chicago||||| The internships are geared towards women. The new grad roles are open to everyone.|
 | [QuantLab](https://www.quantlab.com/careers)| Houston||||||
-| Radix Labs| Chicago|[✔️](mailto:recruiting@radix-trading.com)||[✔️](mailto:recruiting@radix-trading.com)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
+| Radix Labs| Chicago|[✅](https://boards.greenhouse.io/radixtrading/jobs/6629921002)||[✅](https://boards.greenhouse.io/radixtrading/jobs/6629919002)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
 | [Schonfeld](https://www.schonfeld.com/careers/open-positions?page=1&department=Early%20Engagement) |||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
