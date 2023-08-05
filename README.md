@@ -29,8 +29,8 @@ QT = Quantitative Trading
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago||||||
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
 |[BAM](https://bamfunds.force.com/s/)|||||||
-| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/Quantitative-Developer-Intern--Summer-2024_R884)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/Quantitative-Researcher-Intern--Summer-2024_R882)|||Highest Interview Difficulty|
-| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|||||Allegedly opening in August.|
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Developer-Intern--Summer-2024_R884)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher-Intern--Summer-2024_R882)|||Highest Interview Difficulty|
+| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|[✅](https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9)|[✅](https://jobs.lever.co/belvederetrading/80ac6b59-f376-42a1-a32d-afefd6233082)|[✅](https://jobs.lever.co/belvederetrading/2faf3199-5312-4f58-bbb4-4504d565168d)|||
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago||||||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport||||| Day Ralio's firm. Very unique culture.|
 | [Campbell and Company](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US)| Baltimore, MD||||| This small 60 employee multi-strat quant firm has an extremely collaborative culture.|
@@ -65,7 +65,7 @@ QT = Quantitative Trading
 | [Schonfeld](https://www.schonfeld.com/careers/open-positions?page=1&department=Early%20Engagement) |||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
 | [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd|[✅]([https://careers.sig.com/job/7415/Software-Developer-C](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest))|[✅](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)|[✅](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)| QR and QT roles now open!| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|
-| [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
+| [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||[✅](https://www.squarepoint-capital.com/job#243853)||||
 | [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| Pretty traditional portfolio manager culture.|
 | [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago|||[✅](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?gh_src=b1695fd27us)|||
