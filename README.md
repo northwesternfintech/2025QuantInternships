@@ -27,7 +27,7 @@ QT = Quantitative Trading
 | [Akuna Capital](https://akunacapital.com/careers#careers)|Chicago|[✅](https://akunacapital.com/job-details?gh_jid=5138367)|[✅](https://akunacapital.com/job-details?gh_jid=5147854)|[✅](https://akunacapital.com/job-details?gh_jid=5132302)||Apply early!|
 | [Ansatz Capital](https://jobs.lever.co/ansatzcapital)|NYC|||||Very Small|
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago||||||
-| [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||||||
+| [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||[✅](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-trading-and-portfolio-finance-summer-analyst/5141007?gh_jid=5141007#/)|[✅](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-research-summer-analyst/5004675?gh_jid=5004675#/)|||
 |[BAM](https://bamfunds.force.com/s/)|||||||
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Developer-Intern--Summer-2024_R884)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher-Intern--Summer-2024_R882)|||Highest Interview Difficulty|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|[✅](https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9)|[✅](https://jobs.lever.co/belvederetrading/80ac6b59-f376-42a1-a32d-afefd6233082)|[✅](https://jobs.lever.co/belvederetrading/2faf3199-5312-4f58-bbb4-4504d565168d)|||
