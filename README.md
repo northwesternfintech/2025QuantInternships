@@ -40,6 +40,7 @@ QT = Quantitative Trading
 | [Cubist](https://careers.point72.com/?experience=internships)| New York City|✔️|✔️||| The quant arm of Steve Cohen's Point72 hedge fund. Pretty small and school selective.|
 | [DE Shaw](https://www.deshaw.com/careers/internships)|NYC|✔️||✔️||Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar. Generally considered a top destination for QRs, more so than other roles.|
 | [DRW](https://drw.com/work-at-drw/category/campus/)|Chicago|✔️|✔️|✔️|| Perception is that DRWers tend to have a good WLB but teams are usually siloed. Known for their PM type culture and relatively fluid roles.|
+| [Engineer's Gate](https://www.eglp.com/)|New York| | | |||
 | [Five Rings](https://fiverings.avature.net/careers)| NYC|✔️|✔️|✔️|Winter also available.| Extremely school-selective - generally MIT only.|
 | [Flow Traders](https://www.flowtraders.com/careers)|NYC|||✔️|| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver. One of the only publicly traded quant funds.|
 | [G-Research](https://www.gresearch.co.uk/join-us/graduates/)| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
