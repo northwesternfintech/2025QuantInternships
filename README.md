@@ -69,7 +69,7 @@ QT = Quantitative Trading
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||✔️||||
 | [TGS](https://www.tgsmc.com/careers/)|Irvine|||||Perception ranges anywhere from JS to RenTech tier. Extremely secretive - not much else is known.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC|||✔️|| Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.|
-| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||✔️||Extremely trader led. Also take interns in Puerto Rico.|
+| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||[✅](https://job-boards.greenhouse.io/transmarketgroup/jobs/4389345007)||Extremely trader led. Also take interns in Puerto Rico.|
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||✔️||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||✔️||| Founded by ex-Jump people. Focus on ML.|
