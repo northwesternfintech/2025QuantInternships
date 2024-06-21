@@ -7,6 +7,14 @@ Feel free to submit a new job posting or suggest a change by submitting a pull r
 Are you a firm looking to reach quant interns? Let us know at nuft@u.northwestern.edu and we will take care of adding your positions. 
 
 ------
+### Resources
+- **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
+- A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+- **[QuantQuestions.io](https://quantquestions.io)**:
+- A platform offering targeted studying for the quant interview questions with topics including brainteasers, probability and more. Recommended for those applying to QR/QT roles at companies like Jane Street, Citadel etc - most questions here are free.
+------
+
+------
 
 ✅  = Company offers role and applications are open → click on the checkmark for a link to the job posting
 
