@@ -68,7 +68,7 @@ QT = Quantitative Trading
 | [SIG](https://careers.sig.com/intern-openings)|Bala Cynwyd|[✅](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025)|[✅](https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025)|[✅](https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025)|| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career.|
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||✔️||||
 | [TGS](https://www.tgsmc.com/careers/)|Irvine|||||Perception ranges anywhere from JS to RenTech tier. Extremely secretive - not much else is known.|
-| [Tower Research](https://www.tower-research.com/open-positions)| NYC|||✔️|| Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.|
+| [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=6072039)|| Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.|
 | [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||[✅](https://job-boards.greenhouse.io/transmarketgroup/jobs/4389345007)||Extremely trader led. Also take interns in Puerto Rico.|
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||✔️||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
