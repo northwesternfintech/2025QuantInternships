@@ -24,7 +24,7 @@ QT = Quantitative Trading
 
 | Company| Location|SWE|QR|QT|Status| Notes|
 |-------------------------|-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Akuna Capital](https://akunacapital.com/careers#careers)|Chicago|✔️|✔️|✔️|||
+| [Akuna Capital](https://akunacapital.com/careers#careers)|Chicago|[✅](https://akunacapital.com/job-details?gh_jid=6037985)|[✅](https://akunacapital.com/job-details?gh_jid=5744541)|[✅](https://akunacapital.com/job-details?gh_jid=6075208)|||
 | [Ansatz Capital](https://jobs.lever.co/ansatzcapital)|NYC|||||Very Small, Citadel Spinoff.|
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago|||||Very Small, Citadel Spinoff. Matt Godbolt (Yes, that godbolt), works here.|
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||✔️|✔️|||
