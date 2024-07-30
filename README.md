@@ -73,7 +73,7 @@ QT = Quantitative Trading
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||[✅](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2025-Summer/12685)||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||✔️||| Founded by ex-Jump people. Focus on ML.|
-| [Virtu Financial](https://www.virtu.com/careers/)|NYC, Austin|✔️|✔️|✔️||Known for being very HFT MM heavy.|
+| [Virtu Financial](https://www.virtu.com/careers/)|NYC, Austin|[✅](https://job-boards.greenhouse.io/virtu/jobs/7520504002)|[✅](https://job-boards.greenhouse.io/virtu/jobs/7520526002)|[✅](https://job-boards.greenhouse.io/virtu/jobs/7424419002)||Known for being very HFT MM heavy.|
 | [Voleon](https://voleon.com/index.html%3Fp=124.html)|Berkeley|||✔️|| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
