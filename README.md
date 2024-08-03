@@ -74,7 +74,7 @@ QT = Quantitative Trading
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||✔️||| Founded by ex-Jump people. Focus on ML.|
 | [Virtu Financial](https://www.virtu.com/careers/)|NYC, Austin|[✅](https://job-boards.greenhouse.io/virtu/jobs/7520504002)|[✅](https://job-boards.greenhouse.io/virtu/jobs/7520526002)|[✅](https://job-boards.greenhouse.io/virtu/jobs/7424419002)||Known for being very HFT MM heavy.|
-| [Voleon](https://voleon.com/index.html%3Fp=124.html)|Berkeley|||✔️|| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
+| [Voleon](https://voleon.com/jobs/)|Berkeley|||✔️|| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
