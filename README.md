@@ -53,7 +53,7 @@ QT = Quantitative Trading
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york)| NYC|[✅](https://www.janestreet.com/join-jane-street/position/7527332002/)|[✅](https://www.janestreet.com/join-jane-street/position/7450341002/)|[✅](https://www.janestreet.com/join-jane-street/position/7552816002/)|| Founded by ex-SIG people. Tends to be more school-agnostic than other firms. General perception of JS is that it has a very comfortable and nerdy culture. Specializes in ETF market making, and uses OCAML as their primary programming language.|
 | [Jump Trading](https://www.jumptrading.com/careers/?titleSearch=campus+intern)| Chicago|✔️|✔️|✔️|| Fairly school-selective recruiting. Very engineering-focused with siloed teams. Known for being extremely fast at execution.|
 | [Mako Trading](https://www.mako.com/opportunities)|London||||||
-| [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC||||||
+| [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC|[✅](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501415002?gh_src=6df8b42e2us)|||||
 | [Maven Securities](https://www.mavensecurities.com/jobs/)|London|||||Founded by ex-optiver traders.|
 | [Millenium](https://www.mlp.com/job-listings/)| NYC|✔️|✔️|||||
 | [Old Mission](https://www.oldmissioncapital.com/careers/https://www.oldmissioncapital.com/careers/)| Chicago, NYC||||| Takes 4 total for a winter internship. Very trader led. Many good traders come here to carve their own path.|
