@@ -29,7 +29,7 @@ QT = Quantitative Trading
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago|||||Very Small, Citadel Spinoff. Matt Godbolt (Yes, that godbolt), works here.|
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||✔️|✔️|||
 | [BAM](https://bamfunds.force.com/s/)||✔️|✔️||||
-| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|✔️|✔️|||Fully Systematic.|
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2025_R1118)|||Fully Systematic.|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|✔️|✔️|✔️|||
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago|✔️||✔️|||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport|✔️|||| Day Ralio's firm. Very unique culture and interviews. Very School Selective.|
