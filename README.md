@@ -55,7 +55,7 @@ QT = Quantitative Trading
 | [Mako Trading](https://www.mako.com/opportunities)|London||||||
 | [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC|[✅](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501415002?gh_src=6df8b42e2us)|||||
 | [Maven Securities](https://www.mavensecurities.com/jobs/)|London|||||Founded by ex-optiver traders.|
-| [Millenium](https://www.mlp.com/job-listings/)| NYC|✔️|✔️|||||
+| [Millenium](https://www.mlp.com/job-listings/)| NYC|[✅](https://mlp.eightfold.ai/careers?pid=755938458240&domain=mlp.com&sort_by=relevance&microsite=campus-site)|[✅](https://mlp.eightfold.ai/careers?pid=755938458241&domain=mlp.com&sort_by=relevance&microsite=campus-site)|||||
 | [Old Mission](https://www.oldmissioncapital.com/careers/https://www.oldmissioncapital.com/careers/)| Chicago, NYC||||| Takes 4 total for a winter internship. Very trader led. Many good traders come here to carve their own path.|
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10)|Chicago, Austin|[✅](https://optiver.com/working-at-optiver/career-opportunities/7325586002/)|[✅](https://optiver.com/working-at-optiver/career-opportunities/7498994002/)|[✅](https://optiver.com/working-at-optiver/career-opportunities/7480659002/)||Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due to their marble bonus system.|
 | [PDT Partners](https://pdtpartners.com/careers)| NYC|[✅](https://boards.greenhouse.io/pdtpartners/jobs/4423823)||||Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.|
