@@ -30,7 +30,7 @@ QT = Quantitative Trading
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||✔️|✔️|||
 | [BAM](https://bamfunds.force.com/s/)||✔️|✔️||||
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2025_R1118)|||Fully Systematic.|
-| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|✔️|✔️|✔️|||
+| [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|[✅](https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/apply)|✔️|[✅](https://jobs.lever.co/belvederetrading/123fcb8a-ad4b-4c12-8de7-87a3d22f531a/apply)|||
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago|✔️||✔️|||
 | [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)| Westport|✔️|||| Day Ralio's firm. Very unique culture and interviews. Very School Selective.|
 | [Campbell and Company](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US)| Baltimore, MD||||| This small 60 employee multi-strat quant firm has an extremely collaborative culture.|
