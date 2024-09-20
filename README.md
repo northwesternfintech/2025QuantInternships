@@ -79,4 +79,3 @@ QT = Quantitative Trading
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
-
