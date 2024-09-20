@@ -70,6 +70,7 @@ QT = Quantitative Trading
 | [TGS](https://www.tgsmc.com/careers/)|Irvine|||||Perception ranges anywhere from JS to RenTech tier. Extremely secretive - not much else is known.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=6072039)|| Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.|
 | [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||[✅](https://job-boards.greenhouse.io/transmarketgroup/jobs/4389345007)||Extremely trader led. Also take interns in Puerto Rico.|
+| [Tudor Investment Group](https://job-boards.greenhouse.io/tudorgroup?t=0k73iy1)| NYC, Oakland, Singapore|✔️|[✅](https://job-boards.greenhouse.io/tudorgroup/jobs/6218480?gh_src=0k73iy1)|✔️||Focused on macro trading and discretionary strategies. Known for its founder, Paul Tudor Jones, and its emphasis on research-driven approaches. Mix of quant and discretionary trading styles. Culture can vary by team.|
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737,16718736%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&)| NYC|✔️|[✅](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2025-Summer/12685)||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.|
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||✔️||| Founded by ex-Jump people. Focus on ML.|
@@ -78,3 +79,4 @@ QT = Quantitative Trading
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
+
